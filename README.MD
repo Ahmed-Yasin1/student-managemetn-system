@@ -113,4 +113,15 @@ index 34137ae..d6a0b63 100644
 +Author: AhmedYasin <xasancumar063@gmail.com>
 +Date:   Mon Apr 27 04:25:42 2026 -0700
 :
-q
+git log --oneline
+7c5c883 (HEAD -> feature-login) Added pull command
+b93bb1f added login feature
+544a378 added gitignore
+4119d17 Restore Student file
+469acc8 deleted student file
+ecdeb4b added 3 students
+2fb8bbe added Readme file git commands used
+8da1b26 Updated Readme with project description
+fff76bf Initial project setup with basic files
+10f0e75 deleted all becouse of type err
+b4aa8ad Initial project with basic files
