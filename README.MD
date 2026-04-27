@@ -9,4 +9,4 @@ git add.
 git commit -m"description"
 git status
 git log
-git pull
+git push
