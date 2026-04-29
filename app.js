@@ -1,3 +1,5 @@
 function log(){
-    console.log("loging")
+console.log("loging")
 }
+
+log();
