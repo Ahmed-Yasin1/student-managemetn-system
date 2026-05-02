@@ -125,3 +125,5 @@ ecdeb4b added 3 students
 fff76bf Initial project setup with basic files
 10f0e75 deleted all becouse of type err
 b4aa8ad Initial project with basic files
+
+this is bad Readme
