@@ -1,5 +1,5 @@
-function log(){
-console.log("loging")
+let work=()=>{
+    console.log("Hi")
 }
 
-log();
+work()
